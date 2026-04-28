@@ -1,7 +1,6 @@
 # Hi, I’m Fascha Aryasa
 
-I’m an M.S. Business Analytics student at the University of Iowa and a Data Science graduate focused on turning data into clear, actionable business insights.  
-I’m especially interested in analytics roles at the intersection of product, customer strategy, and AI-enabled decision-making.
+I’m an M.S. Business Analytics student at the University of Iowa and a Data Science graduate focused on turning data into clear, actionable business insights. I’m especially interested in analytics roles at the intersection of product, customer strategy, and AI-enabled decision-making.
 
 ## About Me
 - M.S. in Business Analytics (May 2026), GPA: 3.90/4.00
@@ -9,7 +8,7 @@ I’m especially interested in analytics roles at the intersection of product, c
 - Current focus: finance analytics, AI applications, customer analytics, and business intelligence
 
 ## Technical Skills
-- **Languages & Querying:** SQL, Python, R  
+- **Languages & Querying:** Python, SQL, R  
 - **BI & Visualization:** Power BI, Tableau, Excel  
 - **Methods:** Regression, Time Series, Predictive Modeling, A/B Testing, Data Quality Analysis  
 - **Tools & Platforms:** Git, GitHub, Jira, Azure, Microsoft Office Suite  
@@ -36,7 +35,7 @@ I’m especially interested in analytics roles at the intersection of product, c
 
 ### Graduate Teaching Assistant — Tippie College of Business, University of Iowa (Aug 2025 – Present)
 - Led discussions and office hours on data analysis, APIs, databases, and visualization best practices
-- Supported **150+ students** in Python/SQL workflows and analytics problem-solving
+- Supported **150+ students** in Python workflows and analytics problem-solving
 - Guided assignment quality in data cleaning, transformation, and validation
 
 ### Student Instructional Technology Assistant — Information Technology Services, University of Iowa (Jan 2025 – Aug 2025)
