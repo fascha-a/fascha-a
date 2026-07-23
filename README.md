@@ -1,59 +1,68 @@
 # Hi, I’m Fascha Aryasa
 
-I’m an M.S. Business Analytics student at the University of Iowa and a Data Science graduate focused on turning data into clear, actionable business insights. I’m especially interested in analytics roles at the intersection of product, customer strategy, and AI-enabled decision-making.
+I’m an M.S. Business Analytics and B.S. Data Science graduate from the University of Iowa, focused on turning data into clear, actionable business insights. I’m especially interested in analytics and software roles at the intersection of product, customer strategy, finance, and AI-enabled decision-making.
 
 ## About Me
-- M.S. in Business Analytics (May 2026), GPA: 3.90/4.00
+- M.S. in Business Analytics (May 2026), Finance and Artificial Intelligence, GPA: 3.91/4.00
 - B.S. in Data Science (May 2025), University Honors
-- Current focus: finance analytics, AI applications, customer analytics, and business intelligence
+- Current focus: finance analytics, AI applications, customer analytics, business intelligence, and user-centered software development
 
 ## Technical Skills
-- **Languages & Querying:** Python, SQL, R  
-- **BI & Visualization:** Power BI, Tableau, Excel  
-- **Methods:** Regression, Time Series, Predictive Modeling, A/B Testing, Data Quality Analysis  
-- **Tools & Platforms:** Git, GitHub, Jira, Azure, Microsoft Office Suite  
+- **Languages & Querying:** Python, SQL, R
+- **BI & Visualization:** Power BI, Tableau, Excel
+- **Methods:** Hypothesis Testing, Multiple Linear Regression, Logistic Regression, Time Series, Predictive Modeling, Forecasting, A/B Testing, Data Quality Analysis
+- **Tools & Platforms:** Git, GitHub, Jira, Azure, Canvas, Gradescope, Pressbooks, Panopto, Anthology Ally, Microsoft Office Suite
 
 ## Featured Projects
-### Loyalty Program & Customer Analytics (Jan 2026 – Present)
-- Analyzed e-commerce transaction data to evaluate loyalty program impact and customer behavior
-- Cleaned, transformed, and segmented data with Python and SQL to compare loyalty vs. non-loyalty customers
-- Built retention, repeat purchase, and incremental profitability metrics
-- Delivered visual analytics and business recommendations to support strategy decisions
+### E-commerce Sales & Customer Analytics (Jan 2026 – May 2026)
+- Analyzed eFavormart and TableclothsFactory sales and customer data using Python and Excel to identify trends
+- Cleaned, transformed, and integrated datasets to improve data quality and support accurate reporting and analysis
+- Applied exploratory data analysis and statistical techniques to evaluate sales performance, customer segments, and behavior
 
 ### Customer Shopping Behavior Analysis (Aug 2025 – Oct 2025)
 - Analyzed **99K+** transaction records using Python (Pandas, Matplotlib)
 - Performed data cleaning, transformation, and feature engineering for analysis readiness
 - Built visualizations to communicate seasonal and category-level consumer trends
 
-## Work Experience
-### AI & Web Development Intern — FarrPro, Inc. (Feb 2026 – Present)
-- Built healthcare web applications (*MyCare*) and browser extensions to improve patient access and engagement
-- Collaborated with cross-functional stakeholders to define requirements and deliver scalable, user-centered solutions
-- Used Git and Jira for version control, issue tracking, and agile workflows
-- Supported backend/frontend integration, documentation, and quality assurance
-- Used AI-assisted tools (ChatGPT, Gemini, Replit) to accelerate prototyping and debugging
+### Hospital Management System Development (Aug 2024 – Dec 2024)
+- Built a scalable MySQL database with normalized schemas and stored procedures to support structured data management
+- Developed a Python web application connected to the backend data system for patient, billing, and scheduling workflows
 
-### Graduate Teaching Assistant — Tippie College of Business, University of Iowa (Aug 2025 – Present)
-- Led discussions and office hours on data analysis, APIs, databases, and visualization best practices
-- Supported **150+ students** in Python workflows and analytics problem-solving
-- Guided assignment quality in data cleaning, transformation, and validation
+## Work Experience
+### Tippie Analytics Intern — Tippie College of Business, University of Iowa (Jun 2026 – Present)
+- Analyzed county data for the John Deere Foundation using Oracle and Power BI to identify community needs and trends
+- Redesigned the AA Cedar Rapids website, improving UI/UX by 80% through better accessibility, navigation, and content
+- Supported two client projects by translating business requirements into data insights and actionable recommendations
+
+### Software Engineer — FarrPro, Inc. (May 2026 – Present)
+- Owned delivery for three healthcare platforms, leveraging Jira, Claude, JavaScript, HTML, and Node.js to launch 20+ features
+- Designed intuitive UI/UX and led development from requirements to launch while coordinating stakeholder communication
+- Directed website redesigns, beta programs, and feature rollouts across three products, improving user experience and efficiency
+
+### AI & Web Development Intern — FarrPro, Inc. (Feb 2026 – May 2026)
+- Built healthcare web applications, including *MyCare* and a browser extension, to improve patient access and engagement
+- Used generative AI tools, including ChatGPT, Claude, and Replit, to support development, debugging, and prototyping
+- Managed and tracked development tasks using Jira while collaborating on feature implementation and project workflows
+
+### Graduate Teaching Assistant — Tippie College of Business, University of Iowa (Aug 2025 – May 2026)
+- Led three discussion sections and office hours for Data Wrangling, covering NumPy, Pandas, APIs, databases, and data visualization
+- Graded assignments and exams, supporting more than 150 students in data structures, machine learning, and text analytics
+- Facilitated project check-ins and mentored students on GitHub, XML/HTML, data integration, and forecasting
 
 ### Student Instructional Technology Assistant — Information Technology Services, University of Iowa (Jan 2025 – Aug 2025)
-- Supported faculty use of ICON, GradeScope, Pressbooks, UICapture Panopto, and Anthology Ally
-- Delivered one-on-one technical support across 1,000+ faculty users and multiple academic tools
-- Contributed to initiatives improving digital learning delivery
+- Provided one-on-one consultation, training, and troubleshooting for 5+ academic technology tools used in teaching and learning
+- Supported digital learning initiatives that improved course accessibility, instructional workflows, and the learning experience
 
 ### Data Analyst Intern — Telkom Indonesia, Digital Business & Technology (May 2024 – Jul 2024)
-- Performed EDA on datasets up to **1M records** for customer retention insights
-- Built predictive models to assess churn and support strategic decisions
-- Created dashboards and visual reports for stakeholder communication
-- Improved reliability through data cleaning, transformation, and validation
+- Conducted exploratory data analysis on customer behavior using up to **1M records** to identify retention strategies
+- Developed predictive models to assess customer churn risk and contribute to data-driven decision-making
+- Collaborated with a cross-functional team to present insights to senior management and align business strategies
 
 ## Leadership
-### Communications Director — Graduate & Professional Student Government (Apr 2025 – Present)
-- Improved communications across email, social media, and web channels
-- Maintained and enhanced GPSG website content and communication systems
+### Communications Director — Graduate & Professional Student Government (Apr 2025 – May 2026)
+- Created email, social media, and website content reaching 9K+ graduate and professional students with events and resources
+- Developed and maintained the GPSG website, redesigning 90% of pages to improve UI/UX, communication, and outreach
 
 ## Let’s Connect
-- 📧 faschaaryasa@gmail.com  
+- 📧 faschaaryasa@gmail.com
 - 💼 [linkedin.com/in/fascha-aryasa](https://www.linkedin.com/in/fascha-aryasa)
