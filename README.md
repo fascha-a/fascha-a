@@ -1,11 +1,13 @@
 # Hi, I’m Fascha Aryasa
 
-I’m an M.S. Business Analytics and B.S. Data Science graduate from the University of Iowa, focused on turning data into clear, actionable business insights. I’m especially interested in analytics and software roles at the intersection of product, customer strategy, finance, and AI-enabled decision-making.
+I’m a data and software professional with an M.S. in Business Analytics and a B.S. in Data Science from the University of Iowa. I build analytics solutions, business intelligence tools, and user-centered software that translate complex data and stakeholder needs into actionable outcomes. My experience spans client analytics, healthcare technology, teaching, and international student advocacy, with interests in finance, AI, customer strategy, and product development.
 
 ## About Me
 - M.S. in Business Analytics (May 2026), Finance and Artificial Intelligence, GPA: 3.91/4.00
 - B.S. in Data Science (May 2025), University Honors
-- Current focus: finance analytics, AI applications, customer analytics, business intelligence, and user-centered software development
+- Currently a Software Engineer at FarrPro and a Tippie Analytics Intern at the University of Iowa
+- Experienced in business intelligence, predictive modeling, client analytics, healthcare technology, and user-centered product development
+- Former President of the International Student Advisory Board and recipient of the University of Iowa’s 2024 Global Student Award
 
 ## Technical Skills
 - **Languages & Querying:** Python, SQL, R
@@ -62,6 +64,11 @@ I’m an M.S. Business Analytics and B.S. Data Science graduate from the Univers
 ### Communications Director — Graduate & Professional Student Government (Apr 2025 – May 2026)
 - Created email, social media, and website content reaching 9K+ graduate and professional students with events and resources
 - Developed and maintained the GPSG website, redesigning 90% of pages to improve UI/UX, communication, and outreach
+
+### President — International Student Advisory Board, University of Iowa (May 2023 – Dec 2025)
+- Advocated for international students by bridging communication with university leadership and ensuring student needs and perspectives were represented
+- Led board operations and stakeholder communication across advisors, liaisons, directors, and external partners
+- Represented ISAB at international student events and fostered a more welcoming, inclusive campus community
 
 ## Let’s Connect
 - 📧 faschaaryasa@gmail.com
