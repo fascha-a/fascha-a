@@ -10,7 +10,7 @@ I’m a data and software professional with an M.S. in Business Analytics and a 
 - Former President of the International Student Advisory Board and recipient of the University of Iowa’s 2024 Global Student Award
 
 ## Technical Skills
-- **Languages & Querying:** Python, SQL, R
+- **Languages & Querying:** Python, SQL, R, SAS, C++, Java
 - **BI & Visualization:** Power BI, Tableau, Excel
 - **Methods:** Hypothesis Testing, Multiple Linear Regression, Logistic Regression, Time Series, Predictive Modeling, Forecasting, A/B Testing, Data Quality Analysis
 - **Tools & Platforms:** Git, GitHub, Jira, Azure, Canvas, Gradescope, Pressbooks, Panopto, Anthology Ally, Microsoft Office Suite
