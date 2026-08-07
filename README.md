@@ -26,9 +26,23 @@ I’m a data and software professional with an M.S. in Business Analytics and a 
 - Performed data cleaning, transformation, and feature engineering for analysis readiness
 - Built visualizations to communicate seasonal and category-level consumer trends
 
+### Uncovering Patterns in Incarceration (Jan 2025 – May 2025)
+- Analyzed 10 years of Iowa prison data (2014–2025) using R to assess trends, disparities, and sentencing outcomes
+- Found 5x overrepresentation of Black individuals and a sharp admission drop (around 40%) during the 2020 pandemic
+
 ### Hospital Management System Development (Aug 2024 – Dec 2024)
-- Built a scalable MySQL database with normalized schemas and stored procedures to support structured data management
-- Developed a Python web application connected to the backend data system for patient, billing, and scheduling workflows
+- Designed a robust, scalable database model and implemented it using MySQL for a distributed healthcare system
+- Developed stored procedures to handle critical functions like patient profiles, billing, and appointment scheduling
+- Built an accessible web application interface with Python and integrated it with backend database functionality
+- Delivered an ER model, normalized database design, and DDL scripts, showcasing iterative development
+
+### Predictive Modeling for Healthcare Analytics (Aug 2024 – Dec 2024)
+- Built predictive models to analyze chronic condition risks using NHANES datasets
+- Delivered actionable health planning insights through statistical analysis and visualization in R
+
+### COVID-19 Vaccine Data Analysis (Jan 2022 – May 2022)
+- Cleaned 17 months of vaccine and death data, creating Excel formulas and quartile analyses.
+- Built scatter plots showing inverse trends between vaccination rates and death cases.
 
 ## Work Experience
 ### Software Engineer — FarrPro, Inc. (May 2026 – Present)
