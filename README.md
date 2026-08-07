@@ -5,7 +5,7 @@ I’m a data and software professional with an M.S. in Business Analytics and a 
 ## About Me
 - M.S. in Business Analytics (May 2026), Finance and Artificial Intelligence, GPA: 3.91/4.00
 - B.S. in Data Science (May 2025), University Honors
-- Currently a Software Engineer at FarrPro and a Tippie Analytics Intern at the University of Iowa
+- Currently a Software Engineer at FarrPro, Inc.
 - Experienced in business intelligence, predictive modeling, client analytics, healthcare technology, and user-centered product development
 - Former President of the International Student Advisory Board and recipient of the University of Iowa’s 2024 Global Student Award
 
@@ -31,15 +31,15 @@ I’m a data and software professional with an M.S. in Business Analytics and a 
 - Developed a Python web application connected to the backend data system for patient, billing, and scheduling workflows
 
 ## Work Experience
-### Tippie Analytics Intern — Tippie College of Business, University of Iowa (Jun 2026 – Present)
-- Analyzed county data for the John Deere Foundation using Oracle and Power BI to identify community needs and trends
-- Redesigned the AA Cedar Rapids website, improving UI/UX by 80% through better accessibility, navigation, and content
-- Supported two client projects by translating business requirements into data insights and actionable recommendations
-
 ### Software Engineer — FarrPro, Inc. (May 2026 – Present)
 - Owned delivery for three healthcare platforms, leveraging Jira, Claude, JavaScript, HTML, and Node.js to launch 20+ features
 - Designed intuitive UI/UX and led development from requirements to launch while coordinating stakeholder communication
 - Directed website redesigns, beta programs, and feature rollouts across three products, improving user experience and efficiency
+
+### Tippie Analytics Intern — Tippie College of Business, University of Iowa (Jun 2026 – Jul 2026)
+- Analyzed county data for the John Deere Foundation using Oracle and Power BI to identify community needs and trends
+- Redesigned the AA Cedar Rapids website, improving UI/UX by 80% through better accessibility, navigation, and content
+- Supported two client projects by translating business requirements into data insights and actionable recommendations
 
 ### AI & Web Development Intern — FarrPro, Inc. (Feb 2026 – May 2026)
 - Built healthcare web applications, including *MyCare* and a browser extension, to improve patient access and engagement
