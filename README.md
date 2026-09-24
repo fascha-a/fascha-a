@@ -5,11 +5,11 @@ I build software for healthcare — the kind where getting it wrong means someon
 I'm a Senior Software Engineer at FarrPro, where I work across five products spanning healthcare AI, medical device commerce, and the internal systems our own team runs on. I started as a full-stack developer and was promoted after five months into a role that also covers hiring, delivery management, and client billing.
 
 What that looks like in practice:
-• Building a HIPAA-compliant health platform that helps patients and caregivers organize their medical lives — AI visit recording and transcription, health journaling, document analysis, and the privacy controls that decide who gets to see what
-• Leading a re-platform of that system onto a new .NET API, migrating ten data domains behind feature flags without a minute of downtime
-• Building a medical device manufacturer's entire cloud subscription business — marketing site, checkout, authenticated provider portal, referrals, and self-service equipment leasing
-• Testing AI systems adversarially before they reach clients, which has meant reverse-engineering APIs and reporting authentication gaps that got fixed pre-launch
-• Owning Stripe billing and subscription workflows end to end, and now the client invoicing side of the business too
+- Building a HIPAA-compliant health platform that helps patients and caregivers organize their medical lives — AI visit recording and transcription, health journaling, document analysis, and the privacy controls that decide who gets to see what
+- Leading a re-platform of that system onto a new .NET API, migrating ten data domains behind feature flags without a minute of downtime
+- Building a medical device manufacturer's entire cloud subscription business — marketing site, checkout, authenticated provider portal, referrals, and self-service equipment leasing
+- Testing AI systems adversarially before they reach clients, which has meant reverse-engineering APIs and reporting authentication gaps that got fixed pre-launch
+- Owning Stripe billing and subscription workflows end to end, and now the client invoicing side of the business too
 
 I care most about the parts other people skip: the access rule that keeps a caregiver from seeing a journal entry they shouldn't, the migration that ships without a maintenance window, the security finding caught before a customer does.
 
