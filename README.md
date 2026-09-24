@@ -19,13 +19,6 @@ I work in TypeScript, React, React Native, Node.js, .NET, and Python, on Postgre
 
 Always happy to talk about healthcare software, AI product design, or what it actually takes to ship in a regulated space.
 
-## About Me
-- M.S. in Business Analytics (May 2026), Finance and Artificial Intelligence, GPA: 3.91/4.00
-- B.S. in Data Science (May 2025), University Honors
-- Currently a Senior Software Engineer at FarrPro, Inc.
-- Experienced in business intelligence, predictive modeling, client analytics, healthcare technology, and user-centered product development
-- Former President of the International Student Advisory Board and recipient of the University of Iowa’s 2024 Global Student Award
-
 ## Technical Skills
 - **Financial Operations**: Billing Analysis, Sales Analysis & Reporting, Business Performance Analysis
 - **Analytics & Reporting**: Excel, Power BI, Tableau, SQL, Python, R, SAS
